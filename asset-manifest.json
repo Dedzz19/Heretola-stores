@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Heretola-stores/static/css/main.2e8e9f41.css",
-    "main.js": "/Heretola-stores/static/js/main.a358e936.js",
+    "main.js": "/Heretola-stores/static/js/main.e9190468.js",
     "static/media/map.png": "/Heretola-stores/static/media/map.ee76a9b6923dd665ab61.png",
     "static/media/discount.png": "/Heretola-stores/static/media/discount.573be42b2dc951b17ea8.png",
     "static/media/CART 2.png": "/Heretola-stores/static/media/CART 2.1f7baddfaa7e8d0bfb7c.png",
@@ -18,10 +18,10 @@
     "static/media/Cart1 2 mobile 1.png": "/Heretola-stores/static/media/Cart1 2 mobile 1.e0ec0a1ecda3b3978934.png",
     "index.html": "/Heretola-stores/index.html",
     "main.2e8e9f41.css.map": "/Heretola-stores/static/css/main.2e8e9f41.css.map",
-    "main.a358e936.js.map": "/Heretola-stores/static/js/main.a358e936.js.map"
+    "main.e9190468.js.map": "/Heretola-stores/static/js/main.e9190468.js.map"
   },
   "entrypoints": [
     "static/css/main.2e8e9f41.css",
-    "static/js/main.a358e936.js"
+    "static/js/main.e9190468.js"
   ]
 }
