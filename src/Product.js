@@ -15,10 +15,10 @@ export default function Product() {
        </span>
        <h2 className='text-xl font-bold'>Heretola stores</h2>
       </div>
-      <Link to='/History' className='mr-3'>
+      <Link to='/Heretola-stores/History' className='mr-3'>
       <img src={history} alt='history' className='max-h-12 md:max-h-24 '/>
       </Link>
-       <Link to='/Cart' className='flex'>
+       <Link to='/Heretola-stores/Cart' className='flex'>
        <img src={cart} alt='cart' className='max-h-12 md:max-h-24'/>
        <p className=' -mx-3 text-white bg-red-500 h-fit px-2 rounded-full'>5</p>
        </Link>
@@ -72,14 +72,14 @@ export default function Product() {
           <span >
             <h3 className='text-xl font-semibold py-1'>Track your order</h3>
             <h3 className='text-xl font-semibold py-1'>About us</h3>
-            <Link to='/Confirmed'><h3 className='text-xl font-semibold py-1'>My orders</h3></Link>
+            <Link to='/Heretola-stores/Confirmed'><h3 className='text-xl font-semibold py-1'>My orders</h3></Link>
             <h3 className='text-xl font-semibold py-1'>Contact us</h3>
             <h3 className='text-xl font-semibold py-1'>Free Delivery & Refund</h3>
           </span>
         </div>
         <div>
           <h1 className='text-4xl font-semibold pb-3'>Brand info</h1>
-          <Link to='/About Us' className='cursor-pointer'>
+          <Link to='/Heretola-stores/About Us' className='cursor-pointer'>
           <h3 className='text-xl font-semibold'>About us</h3>
           </Link>
         </div>

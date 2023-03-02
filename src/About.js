@@ -12,7 +12,7 @@ export default function About() {
       <p className='flex place-content-center text-start'>Hertola stores is specializes in foods,<br /> beverages, clothing, cosmetics and<br /> the company has craved a niched<br />in each of this retrospective sphere.<br />They offer quality Product at an<br /> affordable price. <br />Delivery is fast and  top notch.</p>
     </div>
    <section className='ml-auto mr-12'>
-    <Link className='flex items-center' to='/' >
+    <Link className='flex items-center' to='/Heretola-stores/' >
       <MdArrowBackIos className='text-xl font-bold'  />
       <p>Continue Shopping</p>
       </Link>

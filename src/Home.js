@@ -19,8 +19,8 @@ export default function Home() {
       <img src={Logo} alt='Logo' />
       <h1 className='font-black text-2xl'> Hertola Stores</h1>
       <span className='md:flex hidden ml-auto gap-10'>
-        <Link to='/login' className='font-semibold'>Login</Link>
-        <Link to='/About Us' className='text-white px-5 rounded-2xl py-1 font-semibold bg-red-500'>About Us</Link>
+        <Link to='/Heretola-stores/login' className='font-semibold'>Login</Link>
+        <Link to='/Heretola-stores/About Us' className='text-white px-5 rounded-2xl py-1 font-semibold bg-red-500'>About Us</Link>
       </span>
       <span className='block md:hidden ml-auto p-3 bg-primary rounded-full text-white'>
         <GiHamburgerMenu />
@@ -29,7 +29,7 @@ export default function Home() {
       <div className='md:flex items-center'>
         <span className='mr-auto'>
         <h1 className='lg:text-4xl text-2xl pb-12 font-bold leading-tight'>SHOP QUALITY <br /> AND ENJOY YOUR <br />ORDER</h1>
-        <Link to='/Sign Up' className='text-white w-max bg-red-500 font-semibold md:p-6 p-3 text-2xl rounded-full'>GET STARTED</Link>
+        <Link to='/Heretola-stores/Sign Up' className='text-white w-max bg-red-500 font-semibold md:p-6 p-3 text-2xl rounded-full'>GET STARTED</Link>
         </span>
         <img className='lg:mr-4 ' src={Cart} alt='Cart'/>
       </div>
@@ -63,7 +63,7 @@ export default function Home() {
       <span className='md:flex'>
         <span className='mr-auto'>
         <h2 className='text-white py-6 text-2xl font-light'> With different products ranging <br/>from fashion, food , clothing , Jeweleries<br />and toiletries , we have products that<br />suit your satisfaction</h2>
-        <Link to='/Sign Up' className='text-white px-5 rounded-2xl py-3 font-semibold bg-red-500'>Register Now</Link>
+        <Link to='/Heretola-stores/Sign Up' className='text-white px-5 rounded-2xl py-3 font-semibold bg-red-500'>Register Now</Link>
         </span>
         <img src={Cart2} alt='Cart 2' className='animate-pulse md:max-w-sm mt-12 md:mt-0 sm:max-w-xxs ' />
       </span>
@@ -87,7 +87,7 @@ export default function Home() {
         <span className='my-auto py-5 gap-20'>
           <h1 className='lg:text-5xl sm:text-2xl font-semibold'>PROMOTIONS</h1>
           <p className='lg:text-3xl lg:py-12 py-8'>50% discount<br />on every product order<br />you make</p>
-          <Link to='/Sign Up' className='text-white md:px-6 rounded-2xl py-3 font-semibold bg-red-500'>Get Started</Link>
+          <Link to='/Heretola-stores/Sign Up' className='text-white md:px-6 rounded-2xl py-3 font-semibold bg-red-500'>Get Started</Link>
         </span>
 
       </div>

@@ -22,9 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "tail": "tailwindcss -i ./src/Components/styles.css -o ./css/styles.css",
-    "watch": "tailwindcss -i ./src/Components/styles.css  -o ./css/styles.css --watch",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "watch": "tailwindcss -i ./src/Components/styles.css  -o ./css/styles.css --watch"
   },
   "eslintConfig": {
     "extends": [

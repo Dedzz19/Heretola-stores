@@ -16,17 +16,17 @@ export default function App() {
   return (
     <div>
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/login' element={<Login />}/>
-        <Route path='/Sign Up' element={<Sign />}/>
-         <Route path='/Cart' element={ <Cart />}/>
-         <Route path='/Location' element={<Location />} />
-         <Route path='/Confirmed' element={<Order />} />
-         <Route path='/About Us' element={<About />} />
-         <Route path='/Refund' element={<Refund />} />
-         <Route path='/History' element={<History />}/>
-         <Route path='/Dashboard' element={<Dashboard />}/>
-         <Route path='/Product page' element={<Product />}/>
+        <Route path='/Heretola-stores/' element={<Home />} />
+        <Route path='/Heretola-stores/login' element={<Login />}/>
+        <Route path='/Heretola-stores/Sign Up' element={<Sign />}/>
+         <Route path='/Heretola-stores/Cart' element={ <Cart />}/>
+         <Route path='/Heretola-stores/Location' element={<Location />} />
+         <Route path='/Heretola-stores/Confirmed' element={<Order />} />
+         <Route path='/Heretola-stores/About Us' element={<About />} />
+         <Route path='/Heretola-stores/Refund' element={<Refund />} />
+         <Route path='/Heretola-stores/History' element={<History />}/>
+         <Route path='/Heretola-stores/Dashboard' element={<Dashboard />}/>
+         <Route path='/Heretola-stores/Product page' element={<Product />}/>
       </Routes>
     </div>
   )

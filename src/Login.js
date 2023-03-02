@@ -38,7 +38,7 @@ export default function Login(props) {
           <Input name='Password' placeholder='Enter password' />
           </span>
           <div className=''>
-            <Link to='/Dashboard'>
+            <Link to='/Heretola-stores/Dashboard'>
             <button onClick={() => {time(); changeBtn1();}} className={`' mt-16 w-3/5 bg-primary font-semibold ${btn} text-white p-2 rounded-2xl '`}>Sign In</button>
             </Link>
             <div className=' flex gap-3 py-8 items-center mx-auto lg:mx-20'>

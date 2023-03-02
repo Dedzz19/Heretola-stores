@@ -41,7 +41,7 @@ export default function Sign() {
            <Input name='Password' placeholder='Enter password'/>
           </span>
           <div className=''>
-            <Link to='/Dashboard'>
+            <Link to='/Heretola-stores/Dashboard'>
             <button onClick={() => {time(); changeBtn1();}} className={`' mt-16 lg:w-3/5 w-4/5 bg-primary font-semibold ${btn} text-white p-2 rounded-2xl '`}>Create your account</button>
             </Link>
             <div className=' flex gap-3 py-8 items-center mx-auto lg:mx-20'>
@@ -55,7 +55,7 @@ export default function Sign() {
             </span>
             <div className=' w-10/12'>
             <h5 className='mt-2 text-center'>By signing in, you agree to our communications and usage terms <br /> Already have an account? 
-            <Link to='/' className='text-blue-500'>Sign in</Link>
+            <Link to='/Heretola-stores/' className='text-blue-500'>Sign in</Link>
             </h5>
            </div>
           </div>

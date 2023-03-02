@@ -37,10 +37,10 @@ export default function Dashboard() {
        </span>
        </div>
        <div className='flex items-center'>
-      <Link to='/History'>
+      <Link to='/Heretola-stores/History'>
       <img src={history} alt='history' className='md:max-w-xxs max-h-20 md:max-h-32'/>
       </Link>
-       <Link to='/Cart' className='flex'>
+       <Link to='/Heretola-stores/Cart' className='flex'>
        <img src={cart} alt='cart' className='md:max-w-xxs max-h-12 md:max-h-32'/>
        <p className=' -mx-3 text-white bg-red-500 h-fit px-2 rounded-full'>5</p>
        </Link>
@@ -62,7 +62,7 @@ export default function Dashboard() {
         <h2 className='text-3xl font-bold py-6'>Most Ordered Product</h2>
        <section className='grid grid-cols-3 gap-3 grid-rows-1'>
        <div className='text-center'>
-        <Link to='/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
+        <Link to='/Heretola-stores/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
           <span className='mx-auto'>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
@@ -73,7 +73,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -82,7 +82,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -94,7 +94,7 @@ export default function Dashboard() {
        <h2 className='text-3xl font-bold py-6'>Cosmetics And Fashion</h2>
        <section className='grid grid-cols-3 gap-3 grid-rows-1'>
        <div className='text-center'>
-        <Link to='/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
+        <Link to='/Heretola-stores/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
           <span className='mx-auto'>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
@@ -105,7 +105,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -114,7 +114,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -126,7 +126,7 @@ export default function Dashboard() {
        <h2 className='text-3xl font-bold py-6'>Clothing</h2>
        <section className='grid grid-cols-3 gap-3 grid-rows-1'>
        <div className='text-center'>
-        <Link to='/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
+        <Link to='/Heretola-stores/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
           <span className='mx-auto'>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
@@ -137,7 +137,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -146,7 +146,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -158,7 +158,7 @@ export default function Dashboard() {
        <h2 className='text-3xl font-bold py-6'>Beverages</h2>
        <section className='grid grid-cols-3 gap-3 grid-rows-1'>
        <div className='text-center'>
-        <Link to='/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
+        <Link to='/Heretola-stores/Product page'><img src={necklace} alt='' className='md:h-40 mx-auto md:max-w-none max-w-xxs h-20'/></Link>
           <span className='mx-auto'>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
@@ -169,7 +169,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={cosmetics} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
@@ -178,7 +178,7 @@ export default function Dashboard() {
         </div>
 
         <div className='text-center'>
-          <Link to='/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
+          <Link to='/Heretola-stores/Product page'><img src={toiletries} alt='' className='md:max-w-none max-w-xxs h-20 md:h-40 mx-auto'/></Link>
           <h6 className='font-bold'>Necklace</h6>
           <p className='my-1'>N25,000</p>
           <span className='flex place-content-center'>
