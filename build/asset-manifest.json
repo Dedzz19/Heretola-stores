@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Heretola-stores/static/css/main.2e8e9f41.css",
+    "main.js": "/Heretola-stores/static/js/main.e9190468.js",
+    "static/media/map.png": "/Heretola-stores/static/media/map.ee76a9b6923dd665ab61.png",
+    "static/media/discount.png": "/Heretola-stores/static/media/discount.573be42b2dc951b17ea8.png",
+    "static/media/CART 2.png": "/Heretola-stores/static/media/CART 2.1f7baddfaa7e8d0bfb7c.png",
+    "static/media/UP 1.png": "/Heretola-stores/static/media/UP 1.2d71c2f7988452b65c85.png",
+    "static/media/jewelry.png": "/Heretola-stores/static/media/jewelry.f436378cf975a59992a3.png",
+    "static/media/Cart1 2.png": "/Heretola-stores/static/media/Cart1 2.ba3304ff26ce72dbcaca.png",
+    "static/media/cosmetics.png": "/Heretola-stores/static/media/cosmetics.29cf1531f9e21589eeeb.png",
+    "static/media/bags.png": "/Heretola-stores/static/media/bags.d34186b1c887ac3161b1.png",
+    "static/media/tolietries.png": "/Heretola-stores/static/media/tolietries.5ba608cd8a45b361ae25.png",
+    "static/media/Persona.png": "/Heretola-stores/static/media/Persona.3533555a5cea84f61c40.png",
+    "static/media/process 1.png": "/Heretola-stores/static/media/process 1.b5d1c20c18fd88d06b3f.png",
+    "static/media/Quality.png": "/Heretola-stores/static/media/Quality.0df91919b5a4ad21e9f9.png",
+    "static/media/logo 1.png": "/Heretola-stores/static/media/logo 1.35db4de76853c769b6b7.png",
+    "static/media/Cart1 2 mobile 1.png": "/Heretola-stores/static/media/Cart1 2 mobile 1.e0ec0a1ecda3b3978934.png",
+    "index.html": "/Heretola-stores/index.html",
+    "main.2e8e9f41.css.map": "/Heretola-stores/static/css/main.2e8e9f41.css.map",
+    "main.e9190468.js.map": "/Heretola-stores/static/js/main.e9190468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e8e9f41.css",
+    "static/js/main.e9190468.js"
+  ]
+}
